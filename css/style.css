@@ -35,8 +35,6 @@ a{
 	margin-right: auto;
 	padding-left: .5rem;
 	padding-right: .5rem;
-    
- 
 }
 
                             /*AllCss*/
@@ -46,8 +44,9 @@ a{
 nav{
     width: 100%;
      background:  #DCB01D;
-    position:fixed;
     z-index: 3;
+   
+   
     
 }
 #logo a{
@@ -464,4 +463,4 @@ footer{
     color: #4D4D4D;
      float: left;
 }
-                                            /*footer-end*/
+                                        /*footer-end*/
